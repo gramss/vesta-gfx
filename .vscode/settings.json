@@ -1,0 +1,8 @@
+{
+    "jupyter.kernels.filter": [
+        {
+            "path": "/opt/homebrew/bin/python",
+            "type": "pythonEnvironment"
+        }
+    ]
+}
